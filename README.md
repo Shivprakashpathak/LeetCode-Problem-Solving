@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0877-stone-game) |
