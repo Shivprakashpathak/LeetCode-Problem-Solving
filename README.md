@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
