@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
