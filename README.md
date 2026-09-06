@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
