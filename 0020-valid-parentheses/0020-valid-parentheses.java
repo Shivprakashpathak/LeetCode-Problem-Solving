@@ -1,17 +1,28 @@
 class Solution {
-    public boolean isValid(String str) {
-        if (str.length() % 2 == 1)
+    public boolean isValid(String s) {
+        if(s.length()%2!=0){
             return false;
+        }
+        Stack<Character>Shiv=new Stack<>(); 
+         for(char c: s.toCharArray()){
+            if(c == '{'){
+                Shiv.push('}');
+            }
+            else if(c=='['){
+                Shiv.push(']');
+            }
+            else if (c=='('){
+                Shiv.push(')');
+            }
 
-        char[] S = str.toCharArray();
-        int i = 0;
+            else{
+                if(Shiv.isEmpty()||Shiv.pop()!=c ){
+                    return false;
+                }
+            }
+         }
 
-        for (char c : S)
-            if ((c & 3) != 1)
-                S[i++] = c;
-            else if (i == 0 || ((c - S[--i] + 1) >> 1) != 1)
-                return false;        
+         return Shiv.isEmpty();
 
-        return i == 0;
     }
 }
