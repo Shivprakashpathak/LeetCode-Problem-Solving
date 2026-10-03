@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1140-stone-game-ii](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1406-stone-game-iii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivprakashpathak/LeetCode-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
